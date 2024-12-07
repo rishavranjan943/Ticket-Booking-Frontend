@@ -40,5 +40,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://ticket-booking-backend-qkml.onrender.com"
+  "proxy": "https://ticket-booking-backend-qkml.onrender.com",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
 }
